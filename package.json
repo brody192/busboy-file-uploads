@@ -1,0 +1,15 @@
+{
+  "name": "busboy-file-uploads",
+  "version": "1.0.0",
+  "description": "file uploads to a railway volume with busboy",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "brody192",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "express": "^4.18.2",
+    "slugify": "^1.6.6"
+  }
+}
